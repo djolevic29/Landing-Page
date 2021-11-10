@@ -13,6 +13,7 @@
     font-weight: 900;
     display: flex;
     padding-left: 100px;
+    background: #1f2937;
 }
 
 .left, .right {
@@ -20,12 +21,14 @@
     align-items: center;
     gap: 16px;
     padding-right: 100px;
+    background: #1f2937;
 }
 
 a {
     text-decoration: none;
     color: #E5E7EB;
     font-size: 16px;
+    background: #1f2937;
 }
 
 ul {
@@ -34,4 +37,5 @@ ul {
     padding: 0;
     gap: 16px;
     list-style-type: none;
+    background: #1f2937;
 }
