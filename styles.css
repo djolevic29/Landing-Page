@@ -1,0 +1,37 @@
+.header {
+    background: #1f2937;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+}
+
+.logo {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: 900;
+    display: flex;
+    padding-left: 100px;
+}
+
+.left, .right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding-right: 100px;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 16px;
+}
+
+ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
+    list-style-type: none;
+}
